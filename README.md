@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gizem Tutar</h1>
 <h3 align="center">I am computer engineering student at Sakarya University.</h3>
-<img align= "right" alt= "Coding" widht= "400" src=https://www.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_16739195.htm>
+<img class="bOaTkZcdqgXxzJCZECTz" src="https://media.istockphoto.com/id/1200460428/tr/vekt%C3%B6r/g%C3%B6zl%C3%BCk-kulakl%C4%B1k-ve-mavi-t-shirt-gen%C3%A7-uzun-k%C4%B1z%C4%B1l-sa%C3%A7l%C4%B1-%C3%B6%C4%9Frenci-k%C4%B1z-diz%C3%BCst%C3%BC-bilgisayar-ile.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=3txhZa61UdktVond6IM2bLLeCnVo8DmxHPQOkUETGGQ=" alt="gözlük, kulaklık ve mavi t-shirt genç uzun kızıl saçlı öğrenci kız dizüstü bilgisayar ile masada oturan, online öğrenme. noktalı doku efektli elle çizilmiş düz eps 10 vektör çizimi. - girl coding stock illustrations" width="612" height="383">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gizemtutar&label=Profile%20views&color=0e75b6&style=flat" alt="gizemtutar" /> </p>
 
 - 🔭 I’m currently working on **backend**
