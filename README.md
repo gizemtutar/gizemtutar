@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gizem Tutar</h1>
 <h3 align="center">I am computer engineering student at Sakarya University.</h3>
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img class="thumb" data-pin-no-hover="true" fetchpriority="high" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg" style="max-width: 100%; max-height: 100%;" alt="Girl coding with laptop illustration" onerror="this.onerror=null;ga('send', 'event', 'broken_image', 'detail', '418302_27976285');">
+  <img class="thumb" data-pin-no-hover="true" fetchpriority="high" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg" style="width: 300; height: 300;" alt="Girl coding with laptop illustration" onerror="this.onerror=null;ga('send', 'event', 'broken_image', 'detail', '418302_27976285');">
 </div>
 
 - 🔭 I’m currently working on **backend**
