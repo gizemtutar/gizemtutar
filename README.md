@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++,C#,Java.Python,Angular,React**
 
-- 📫 How to reach me gizemtutar414@gmail.com
+- 📫 How to reach me: gizemtutar414@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
