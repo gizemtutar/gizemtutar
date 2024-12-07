@@ -6,12 +6,14 @@
 		
 ## 🌟 About Me
 💻 **I am a senior student at computer engineering **
+---
 
 🔭 I’m currently working on 
 
 -**Data Science**
 
 -**Data Engineering**
+---
 
 🌱 I’m currently learning 
 -**Python**
@@ -21,6 +23,7 @@
 -**ETL**
 
 -**Computer Science**
+---
 
 📫 Connect With Me
 
