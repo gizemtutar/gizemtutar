@@ -8,16 +8,13 @@
 💻 **I am a senior student at computer engineering **
 
 - 🔭 I’m currently working on **Data Science/Data Engineering**
-- 
-- --
 
 - 🌱 I’m currently learning **Python/SQL/ETL/Computer Science**
-- --
 
 -📫 Connect With Me
 
-🌐 [www.linkedin.com/in/gizem-tutar](#)  
-✉️ [gizemtutar414@gmail.com](#)
+🌐 [www.linkedin.com/in/gizem-tutar](##)  
+✉️ [gizemtutar414@gmail.com](##)
 
 
 <h3 align="left">Languages and Tools:</h3>
