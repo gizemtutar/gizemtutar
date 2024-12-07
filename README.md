@@ -7,13 +7,13 @@
 ## 🌟 About Me
 💻 **I am a senior student at computer engineering **
 
-- 🔭 I’m currently working on **Data Science/Data Engineering**
+🔭 I’m currently working on **Data Science/Data Engineering**
 
-- 🌱 I’m currently learning **Python/SQL/ETL/Computer Science**
+🌱 I’m currently learning **Python/SQL/ETL/Computer Science**
 
--📫 Connect With Me
+📫 Connect With Me
 
-🌐 [www.linkedin.com/in/gizem-tutar](##)  
+🌐 [www.linkedin.com/in/gizem-tutar](####)  
 ✉️ [gizemtutar414@gmail.com](##)
 
 
