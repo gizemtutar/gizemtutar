@@ -18,8 +18,8 @@
 -**Computer Science**
 
 📫 Connect With Me
--🌐 [www.linkedin.com/in/gizem-tutar](####)  
--✉️ [gizemtutar414@gmail.com](##)
+🌐 [www.linkedin.com/in/gizem-tutar](####)  
+✉️ [gizemtutar414@gmail.com](##)
 
 
 <h3 align="left">Languages and Tools:</h3>
