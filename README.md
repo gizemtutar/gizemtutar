@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gizem Tutar</h1>
+<h1 align=>Hi 👋, I'm Gizem Tutar</h1>
 <h3 align="center">I am computer engineering student at Sakarya University.</h3>
 <div class="detail__preview detail__preview--vector">
 		<div class="detail__gallery detail__gallery--vector alignc">
