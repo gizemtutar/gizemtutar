@@ -11,7 +11,7 @@
 
 🚀My Goal
 
-I am a computer engineer candidate interested in data science. I see this field as a stepping stone to work on subjects such as artificial intelligence-deep learning-machine learning. I will add projects related to this in the future.
+I am a computer engineer candidate interested in data science. I see this field as a stepping stone to work on subjects such as artificial intelligence. I will add projects related to this in the future.
 
 ---
 
