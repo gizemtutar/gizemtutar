@@ -4,7 +4,8 @@
 		<div class="detail__gallery detail__gallery--vector alignc">
 			<div class="row">
 		
-## 🌟 About Me
+🌟 About Me
+
 💻 **I am a senior student at computer engineering **
 
 ---
